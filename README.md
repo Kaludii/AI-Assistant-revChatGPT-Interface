@@ -6,7 +6,7 @@ This app allows you to chat with ChatGPT using a reverse-engineered API library 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/AI-Assistant-revChatGPT_App "Here") To View This App Online!
 
-![image](https://user-images.githubusercontent.com/63890666/221444692-f317e06b-d228-44a5-826d-af3a9813ed56.png)
+![image](https://user-images.githubusercontent.com/63890666/221444762-a894a5f5-c400-4fc8-8f69-9358a2adb9e0.png)
 
 ## Getting Started
 

@@ -14,12 +14,6 @@ To get started with the app, you'll need to create an account on [OpenAI's ChatG
 
 Once you have your credentials, you can select your authentication method in the sidebar and provide the required information. If you choose Email/Password, you'll need to provide your email and password. If you choose Session token, you'll need to provide your session token. If you choose Access token, you'll need to provide your access token.
 
-## Usage
-
-Once you've provided your credentials, you can start chatting with the Chatbot. Simply enter your message in the text input box and click the "Submit" button. The Chatbot will respond with a message, which will be displayed below the text input box.
-
-One of the key benefits of using revChatGPT is that the replies are streamed back to the user in real-time. This means that the user can have a more natural conversation with the Chatbot and receive immediate feedback on their questions.
-
 ## About revChatGPT
 
 revChatGPT is a reverse-engineered ChatGPT API that is not affiliated with OpenAI. It is intended for educational and research purposes only. Please use it responsibly and do not use it for any commercial or malicious purposes.

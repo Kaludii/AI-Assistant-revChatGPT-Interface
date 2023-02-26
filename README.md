@@ -4,9 +4,9 @@
 This app allows you to chat with ChatGPT using a reverse-engineered API library called [revChatGPT](https://github.com/acheong08/ChatGPT). Replies from the Chatbot are streamed back to the user in real-time, which gives the user an experience similar to how ChatGPT streams back its answers.
 
 # Web App
-Click [Here](https://kaludii-openai-chatbot-app-jd0vo6.streamlit.app/ "Here") To View This App Online!
+Click [Here](https://huggingface.co/spaces/Kaludi/AI-Assistant-revChatGPT_App "Here") To View This App Online!
 
-![Image](https://github.com/Kaludii/OpenAI-Chatbot/blob/main/images/OpenAI-Chatbot.png?raw=true)
+![image](https://user-images.githubusercontent.com/63890666/221444692-f317e06b-d228-44a5-826d-af3a9813ed56.png)
 
 ## Getting Started
 

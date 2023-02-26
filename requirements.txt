@@ -1,0 +1,4 @@
+fastai==2.7.4
+huggingface_hub[fastai]
+fastcore>=1.3.27
+revChatGPT
